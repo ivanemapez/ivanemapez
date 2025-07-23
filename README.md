@@ -60,10 +60,10 @@ Soy un **Data Science** con experiencia en **Machine Learning**, **Analytics**, 
 ## 🌐 Idiomas
 
 - **Español**: Nativo.
-- **Inglés**: A1.
+- **Inglés**: B1.
 
 ---
 
 ## 🚀 Objetivos Profesionales
 
-Apunto a roles como **Data Analyst**, **Data Scientist**, **Machine Learning Engineer** y **Big Data**, contribuyendo al crecimiento de las empresas mediante el análisis y aprovechamiento estratégico de los datos.
+Apunto a roles como **Data Analyst**, **Data Science**, **Machine Learning Engineer** y **Big Data**, contribuyendo al crecimiento de las empresas mediante el análisis y aprovechamiento estratégico de los datos.
