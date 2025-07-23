@@ -1,4 +1,4 @@
-# Iván López - Data Scientist
+# Iván López - Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iv%C3%A1n%20L%C3%B3pez-blue?logo=linkedin)](www.linkedin.com/in/ivan-lópez)
 [![GitHub](https://img.shields.io/badge/GitHub-ivanemapez-black?logo=github)](https://github.com/ivanemapez)
@@ -7,7 +7,7 @@
 
 ## 🔧 Perfil Profesional
 
-Soy un **Data Scientist** con experiencia en **Machine Learning**, **Analytics**, **Big Data** e **Ingeniería de Datos**. Mi enfoque profesional abarca desde la recopilación y transformación de datos hasta la creación de modelos predictivos y su despliegue en producción. Me apasiona encontrar soluciones innovadoras mediante el análisis de datos y el uso de tecnologías avanzadas.
+Soy un **Data Science** con experiencia en **Machine Learning**, **Analytics**, **Big Data** e **Ingeniería de Datos**. Mi enfoque profesional abarca desde la recopilación y transformación de datos hasta la creación de modelos predictivos y su despliegue en producción. Me apasiona encontrar soluciones innovadoras mediante el análisis de datos y el uso de tecnologías avanzadas.
 
 ---
 
